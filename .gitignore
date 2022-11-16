@@ -1,0 +1,9 @@
+sentence_model/*
+deepl_train_data1.csv
+deepl_train_data2.csv
+deepl_translate_60W.jsonl
+sim_sentence.jsonl
+extract_change.jsonl
+cnsd-snli.csv
+all_dataset.csv
+title_and_outline_rank_1.250w.jsonl
